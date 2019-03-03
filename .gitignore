@@ -1,4 +1,6 @@
+.gitignore
 *.a
 *.swp
 *.dSYM/
 beas/logs/
+.idea/
